@@ -1,0 +1,11 @@
+{
+  "tautulli_host": "",
+  "tautulli_token": "",
+  "sonarr_host": "",
+  "sonarr_token": "",
+  "radarr_host": "",
+  "radarr_token":  "",
+  "ignore_root_folder": [],
+  "verbose": false,
+  "DOCKER": false
+}
